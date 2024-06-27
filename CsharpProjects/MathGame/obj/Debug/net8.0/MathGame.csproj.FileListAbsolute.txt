@@ -1,0 +1,14 @@
+s:\ProgrammingRelated\C-Sharp\CsharpProjects\MathGame\bin\Debug\net8.0\MathGame.exe
+s:\ProgrammingRelated\C-Sharp\CsharpProjects\MathGame\bin\Debug\net8.0\MathGame.deps.json
+s:\ProgrammingRelated\C-Sharp\CsharpProjects\MathGame\bin\Debug\net8.0\MathGame.runtimeconfig.json
+s:\ProgrammingRelated\C-Sharp\CsharpProjects\MathGame\bin\Debug\net8.0\MathGame.dll
+s:\ProgrammingRelated\C-Sharp\CsharpProjects\MathGame\bin\Debug\net8.0\MathGame.pdb
+s:\ProgrammingRelated\C-Sharp\CsharpProjects\MathGame\obj\Debug\net8.0\MathGame.GeneratedMSBuildEditorConfig.editorconfig
+s:\ProgrammingRelated\C-Sharp\CsharpProjects\MathGame\obj\Debug\net8.0\MathGame.AssemblyInfoInputs.cache
+s:\ProgrammingRelated\C-Sharp\CsharpProjects\MathGame\obj\Debug\net8.0\MathGame.AssemblyInfo.cs
+s:\ProgrammingRelated\C-Sharp\CsharpProjects\MathGame\obj\Debug\net8.0\MathGame.csproj.CoreCompileInputs.cache
+s:\ProgrammingRelated\C-Sharp\CsharpProjects\MathGame\obj\Debug\net8.0\MathGame.dll
+s:\ProgrammingRelated\C-Sharp\CsharpProjects\MathGame\obj\Debug\net8.0\refint\MathGame.dll
+s:\ProgrammingRelated\C-Sharp\CsharpProjects\MathGame\obj\Debug\net8.0\MathGame.pdb
+s:\ProgrammingRelated\C-Sharp\CsharpProjects\MathGame\obj\Debug\net8.0\MathGame.genruntimeconfig.cache
+s:\ProgrammingRelated\C-Sharp\CsharpProjects\MathGame\obj\Debug\net8.0\ref\MathGame.dll
